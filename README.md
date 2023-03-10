@@ -28,6 +28,11 @@ Install packages
 pip install -r requirements.txt
 ```
 
+Now you can get started by opening and running the notebook
+```
+jupyter notebook
+```
+
 # Citation
 
 You should see a button on the right side of the repo page labeled "Cite this repository".
